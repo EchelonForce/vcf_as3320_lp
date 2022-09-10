@@ -1,0 +1,4 @@
+https://electricdruid.net/multimode-filters-part-1-reconfigurable-filters/
+https://electricdruid.net/multimode-filters-part-2-pole-mixing-filters/
+
+Full datasheet: https://www.bustedgear.com/images/datasheets/CEM3320.pdf
